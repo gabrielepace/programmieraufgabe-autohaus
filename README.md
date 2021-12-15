@@ -1,4 +1,4 @@
-# programmieraufgabe-autohaus
+# Programmieraufgabe Autohaus
 
 ## Aufgabestellung
 
@@ -27,10 +27,10 @@ Sie sind bei der Firma Z für die Backend Entwicklung zuständig und haben folge
 
 4. Das Programm sollte es ermöglichen, dass man die Autohäuser und Autos irgendwo abspeichern kann. Entweder in einer Datenbank oder als Text Files ineinem bestimmten Format (JSON, XML, TXT, etc.).
 
-	- Variante Datenbank: Stellen Sie sicher, dass Sie odbc für die Kommunikation zur 	Datenbank verwenden. Die verschiedenen Tabellen müssen Sie noch anlegen.  
+	- Variante Datenbank: Stellen Sie sicher, dass Sie odbc für die Kommunikation zur Datenbank verwenden. Die verschiedenen Tabellen müssen Sie noch anlegen.  
 	Auf Ihrem Rechner soll bereits eine Datenbank in einem Docker Container laufen. Sie sollte mit URL, User und Passwort erreichbar sein.
 
-	- Variante Text File: Sie können die Daten in einem beliebigen FOrmat abspeichern.  
+	- Variante Text File: Sie können die Daten in einem beliebigen Format abspeichern.  
 	Achten Sie darauf, dass es möglich ist neue Daten zu speichern, ohne dass die alten verloren gehen.
 
 5. <ins>Optional</ins>: Falls Sie genug Zeit haben, programmieren Sie eine Funktion, um ein Auto von einem Autohaus ins andere Autohaus zu verschieben.
